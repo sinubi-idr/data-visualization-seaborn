@@ -2,7 +2,7 @@
 
 <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" width=300 alt="Matplotlib Logo">
 
-Repo ini berisi notebook untuk visualisasi data menggunakan Matplotlib. <br>
+Repo ini berisi notebook untuk visualisasi data menggunakan Seaborn. <br>
 Berikut grafik visualisasi yang tersedia saat ini : 
 * Bar Chart
   - Simple Bar Chart
