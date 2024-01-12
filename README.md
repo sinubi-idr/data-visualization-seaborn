@@ -8,8 +8,13 @@ Berikut grafik visualisasi yang tersedia saat ini :
   - Simple Bar Chart
   - Side by Side Bar Chart
   - Stacked Bar Chart
+* Histogram
+  - Simple Histogram
+  - Histogram by Groups
 * Line Plot
   - Simple Line Plot
   - Multiple Line Plot
 * Pie Chart
 * Scatter Plot
+  - Scatter Plot
+  - Scatter Plot by Groups
