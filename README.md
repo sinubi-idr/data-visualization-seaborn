@@ -8,6 +8,8 @@ Berikut grafik visualisasi yang tersedia saat ini :
   - Simple Bar Chart
   - Side by Side Bar Chart
   - Stacked Bar Chart
+* Box Plot
+  - Box Plot
 * Histogram
   - Simple Histogram
   - Histogram by Groups
