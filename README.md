@@ -10,6 +10,7 @@ Berikut grafik visualisasi yang tersedia saat ini :
   - Stacked Bar Chart
 * Box Plot
   - Box Plot
+  - Multiple Box Plot
 * Histogram
   - Simple Histogram
   - Histogram by Groups
