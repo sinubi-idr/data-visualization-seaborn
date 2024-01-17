@@ -21,6 +21,8 @@ Berikut grafik visualisasi yang tersedia saat ini :
 * Scatter Plot
   - Scatter Plot
   - Scatter Plot by Groups
+* Strip Plot
+  - Strip Plot
 * Violin Plot
   - Violin Plot
   - Multiple Violin Plot
