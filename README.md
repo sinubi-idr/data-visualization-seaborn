@@ -11,6 +11,7 @@ Berikut grafik visualisasi yang tersedia saat ini :
 * Box Plot
   - Box Plot
   - Multiple Box Plot
+* Donut Chart 
 * Histogram
   - Simple Histogram
   - Histogram by Groups
@@ -23,6 +24,10 @@ Berikut grafik visualisasi yang tersedia saat ini :
   - Scatter Plot by Groups
 * Strip Plot
   - Strip Plot
+  - Multiple Strip Plot
+* Swarm Plot
+  - Swarm Plot
+  - Multiple Swarm Plot
 * Violin Plot
   - Violin Plot
   - Multiple Violin Plot
